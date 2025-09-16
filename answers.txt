@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: effective version control, allows collaboration between developers.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: machine learning with roles like researchers or engineers, since data science applies to any field that uses data and approaches to it, and ML deals with algorithms used by deep learning techniques.
+>>>>>>> q2
