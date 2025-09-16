@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: merge preserves git history while rebase rewrites it
 
+Q4: What are you looking forward to this semester?
+
+Answer: having fun with my friends
